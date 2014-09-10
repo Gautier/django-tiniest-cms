@@ -1,14 +1,19 @@
 Django tiniest cms
 ==================
 
+![logo](/gecko.png)
+
+django-tiniest-cms is the simplest CMS I could come up with. There is no
+workflow, no WYSIWYG, no content hiearchy, no fancy admin and no security.
+
 Installation
 ------------
 
-#. The recommended way to install django-tiniest-cms package is with pip.
+1. The recommended way to install django-tiniest-cms package is with pip.
 
     $ pip install django-tiniest-cms
 
-#. Then add 'django-tiniest-cms' to `INSTALLED_APPS`.
+2. Then add 'django-tiniest-cms' to `INSTALLED_APPS`.
 
 Usage
 -----
