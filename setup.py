@@ -4,7 +4,7 @@ setup(
     name='django-tiniest-cms',
     version='0.9.1',
     description='django-tiniest-cms is a seriously minimalist Django CMS',
-    long_description=open('README').read(),
+    long_description=open('README.md').read(),
     author='Gautier Hayoun',
     author_email='ghayoun@gmail.com',
     url='https://github.com/Gautier/django-tiniest-cms',

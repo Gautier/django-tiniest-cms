@@ -23,7 +23,7 @@ Assuming this would be the frontpage template of a website :
         {% content "website/frontpage/main_content"%}
 
         This is the website of ACME corporation
-        
+
         {% endcontent %}
     </body>
     </html>
